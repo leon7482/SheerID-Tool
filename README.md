@@ -15,13 +15,18 @@
 
 本插件未上架 Chrome 商店，需要通过“开发者模式”手动安装。
 
-1.  **下载代码**：点击右上角的 `Code` -> `Download ZIP`，下载并解压到你的电脑上。
-2.  **打开扩展管理**：在 Chrome 浏览器地址栏输入 `chrome://extensions/` 并回车。
-3.  **开启开发者模式**：打开页面右上角的 **Developer mode (开发者模式)** 开关。
-4.  **加载插件**：
+### 📥 1. 下载插件包
+点击下方链接下载最新版本 (V3.5.0) 的 ZIP 压缩包，并解压到你的电脑上。
+
+**[一键下载 Helper.V3.5.0.zip](https://github.com/leon7482/SheerID-Tool/raw/main/Helper.V3.5.0.zip)**
+
+### ⚙️ 2. 加载扩展程序
+1.  **打开扩展管理**：在 Chrome 浏览器地址栏输入 `chrome://extensions/` 并回车。
+2.  **开启开发者模式**：打开页面右上角的 **Developer mode (开发者模式)** 开关。
+3.  **加载插件**：
     * 点击左上角的 **Load unpacked (加载已解压的扩展程序)**。
     * 选择你刚才解压的文件夹（确保文件夹内包含 `manifest.json` 文件）。
-5.  **完成**：此时你应该能看到 "SheerID验证助手" 出现在列表中。
+4.  **完成**：此时你应该能看到 "SheerID验证助手" 出现在列表中。
 
 ## 🛠 Usage (使用教程)
 
@@ -80,4 +85,5 @@ We take your security seriously. / 我们重视您的数据安全。
 ## 📄 License (许可证)
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
+
 本项目基于 **MIT** 许可协议开源。
